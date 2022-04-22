@@ -1,4 +1,5 @@
-let a = 14
-let b = 15
+function sum(n1, n2) {
+    return n1 + n2
+}
 
-console.log(a + b)
+console.log(sum(1, 4))
